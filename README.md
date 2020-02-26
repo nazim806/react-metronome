@@ -1,6 +1,6 @@
 # react-metronome
 
-It is a Metronome app that interpolates two audio beats and changes tempo based on the value of the Beats Per Measure.
+A Metronome app that interpolates two audio beats and changes tempo based on the value of the Beats Per Measure(BPM).
 
 A metronome is a practice tool that produces a steady pulse (or beat) to help musicians play rhythms accurately. 
 
